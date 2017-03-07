@@ -3,7 +3,7 @@ package myc45;
 import java.util.ArrayList;
 import java.util.List;
 
-// class for storing value
+// class for storing value and manage value
 public class Attribute {
 	public String       name   = new String();
 	public List<Values> values = new ArrayList<Values>();
